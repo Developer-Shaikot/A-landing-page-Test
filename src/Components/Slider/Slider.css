@@ -1,0 +1,14 @@
+.Continer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.caruselImg {
+    max-width: 80%;
+    opacity: 0.8;
+    border-image-outset: 2px 2px 4px #ffffff;
+    border-radius: 5%;
+    position: relative;
+    margin: auto;
+}

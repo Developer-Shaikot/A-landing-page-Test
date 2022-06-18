@@ -1,0 +1,41 @@
+.ftrBack {
+    background: rgba(16, 17, 22, 0.6);
+    margin-top: 10%;
+    mix-blend-mode: normal;
+    border-radius:  0px 101px 0px 0px ;
+}
+
+.ftrTxt{
+    border-top: 1px solid #4A4A4A;
+
+    color: white;
+}
+
+.FLOGOTXT{
+    text-decoration: none;
+    white-space: nowrap;
+    margin-left: 5%;
+    color: #FFC508;
+    font-family: 'Cabin', sans-serif;
+    font-size: larger;
+    font-weight: 700;
+    line-height: 50px;
+}
+
+
+.teletxt{
+    margin-left: 50px;
+    margin-top: -25PX;
+}
+
+.tWTetxt{
+    margin-left: 50px;
+    margin-top: -25PX;
+}
+
+.tLWtlogo{
+    border: 1px solid #FFC508;
+    margin-right: 50px;
+    padding: 5px;
+    border-radius: 20px;
+}
