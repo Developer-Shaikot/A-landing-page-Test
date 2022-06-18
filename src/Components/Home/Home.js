@@ -8,14 +8,14 @@ import Footer from '../Footer/Footer';
 const Home = () => {
     return (
         <div className='bg'>
-            <Main/>
+            <Main />
             <div className='container mt-2'>
                 <h2 className='text-white mt-2'>Dogs Make Life Better</h2>
                 <p className='text-white mt-2'>The key to a happy life is having a dog.</p>
-                <Slider/>
+                <Slider />
                 <Footer />
             </div>
-            
+
         </div>
 
 

@@ -4,8 +4,7 @@ import './Main.css';
 const Main = () => {
     return (
         <div>
-            <Navbar/>
-            
+            <Navbar/>  
         </div>
     );
 };

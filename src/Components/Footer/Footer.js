@@ -11,16 +11,16 @@ const Footer = () => {
             <div className="container row row-cols-3 row-cols-md-3">
                 <div className='mt-3'>
                     <Link to="/">
-                        <img style={{ width: '73.78px', height: '59.15px', marginLeft:'10%' }} src={logo} alt="" />
-                        
+                        <img style={{ width: '73.78px', height: '59.15px', marginLeft: '10%' }} src={logo} alt="" />
+
                     </Link>
                     <Link className="FLOGOTXT" to="/">DOG</Link>
-                    
+
                 </div>
 
                 <div className='text-white mt-3'>
                     <h8 ><b>Qick LInks</b></h8>
-                    <br/>
+                    <br />
                     <p>Home</p>
                     <p>Why Dog?</p>
                     <p>FAQ</p>
@@ -28,11 +28,11 @@ const Footer = () => {
 
                 <div className='text-white mt-3'>
                     <h8>Social Media</h8>
-                    <br/>
+                    <br />
                     <Link className="tLWtlogo text-white" to="/"><FontAwesomeIcon icon={faTelegram} /></Link>
                     <p className='teletxt'>Telegram</p>
                     <Link className="tLWtlogo text-white" to="/"><FontAwesomeIcon icon={faTwitter} /></Link><p className='tWTetxt'>Twitter</p>
-                   
+
                 </div>
 
             </div>

@@ -1,5 +1,4 @@
-
-.container{
+.container {
     text-align: center;
     font-size: 15px;
     padding: 7px;
@@ -7,7 +6,7 @@
 }
 
 
-.nv1{
+.nv1 {
 
     text-decoration: none;
     padding-left: 5%;
@@ -16,30 +15,30 @@
     margin-bottom: 10;
     margin: 12px;
     white-space: nowrap;
-    text-align:center;
+    text-align: center;
     border-bottom: 2px solid transparent;
     border-image: linear-gradient(90deg, rgba(255, 55, 68, 0) 1.85%, #FFC508 50.04%, rgba(252, 163, 17, 0) 96.91%);
     border-image-slice: 1;
-    width:100%;
+    width: 100%;
     font-family: 'Cabin', sans-serif;
 }
 
-.nv6{
+.nv6 {
     text-decoration: none;
-    
+
     margin-top: 10;
     margin-bottom: 10;
     margin: 12px;
     padding: 1%;
     white-space: nowrap;
-    text-align:center;
+    text-align: center;
     border: 1px solid #FFC508;
     border-radius: 3px;
-    width:100%;
+    width: 100%;
     font-family: 'Cabin', sans-serif;
 }
 
-.LOGOTXT{
+.LOGOTXT {
     text-decoration: none;
     margin-bottom: 10;
     margin-left: 3%;
@@ -49,35 +48,36 @@
     font-family: 'Cabin', sans-serif;
 }
 
-.LOGOTXT:hover{
+.LOGOTXT:hover {
     text-decoration: none;
     margin-bottom: 10;
-    margin-left: 15%;
+    margin-left: 3%;
     margin-right: 5%;
     white-space: nowrap;
     color: #fffcf2;
     font-family: 'Cabin', sans-serif;
 }
-.nv{
+
+.nv {
     text-decoration: none;
     padding-right: 5%;
     margin-top: 10;
     margin-bottom: 10;
     margin: 12px;
     white-space: nowrap;
-    text-align:center;
+    text-align: center;
     border-bottom: 2px solid transparent;
-   
+
     font-family: 'Cabin', sans-serif;
 }
 
 
 
-.navbar-nav{
-   
+.navbar-nav {
+
     display: flex;
-    flex-direction:column;
-    text-align:left;
+    flex-direction: column;
+    text-align: left;
 
     padding-left: 0;
     margin-top: 5px;
@@ -93,13 +93,8 @@
 .custom-toggler.navbar-toggler {
     margin: 3%;
     border-color: #FFC508;
-} 
+}
 
 .custom-toggler .navbar-toggler-icon {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(255, 255, 255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
-  }
-
-
-
-
-
+}
